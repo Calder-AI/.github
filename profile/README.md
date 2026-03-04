@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Calder-AI/.github/main/profile/calder-logo.png" alt="Calder" height="120"/>
+  <img src="calder-logo.png" alt="Calder" height="120"/>
 </p>
 
 <h3 align="center">The Foundation of Spatial Intelligence</h3>
