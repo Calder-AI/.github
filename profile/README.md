@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://www.calder.ai/logo.png" alt="Calder" width="200"/>
+  <img src="https://raw.githubusercontent.com/Calder-AI/.github/main/profile/calder-logo.png" alt="Calder" height="120"/>
 </p>
 
-<h3 align="center">Spatial Intelligence for the Physical World</h3>
+<h3 align="center">The Foundation of Spatial Intelligence</h3>
 
 <p align="center">
   We build data infrastructure that enables AI to understand and operate in 3D space — powering the next generation of robotics, autonomous systems, and spatial computing.
@@ -15,5 +15,5 @@ Current AI models lack the spatial intelligence needed to navigate the real worl
 **Calder fills that gap.** We capture, process, and deliver the essential training data for general-purpose robotics and spatial AI.
 
 <p align="center">
-  <a href="https://www.calder.ai">calder.ai</a>
+  <a href="https://www.calder.ai">🌐 calder.ai</a>
 </p>
